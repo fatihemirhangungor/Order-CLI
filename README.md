@@ -1,4 +1,4 @@
-# Fatih-Emirhan-Gungor-OrderCLI
+# OrderCLI - Console Application
 
 ## This is an Order application
 
